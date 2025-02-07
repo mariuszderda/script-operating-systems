@@ -7,3 +7,8 @@ chmod u+x main.sh
 ```
 
 ### Skrypt musi zostać urochomiony jako root.
+
+## Wykonali:
+
+### Mariusz Derda
+### Amadeusz Harężlak
