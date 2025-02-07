@@ -6,4 +6,4 @@
 chmod u+x main.sh
 ```
 
-### Skrypt musi zostać urochomiony jako rook.
+### Skrypt musi zostać urochomiony jako root.
